@@ -1,7 +1,7 @@
 # dart-launch-config
 
 
-dart```
+```dart
 "configurations": [
 	{
 		// A name for the launch config. This will show in the dropdown on the Run side bar.
